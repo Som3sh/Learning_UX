@@ -1,4 +1,4 @@
-## README for UXD Learning Journey Repository
+## UXD Learning Journey Repository
 
 Welcome to my UXD Learning Journey Repository! This repository is a living document of my path to becoming a proficient User Experience Designer (UXD). Here, I will be documenting my progress, reflections, and the resources I've utilized along the way. My goal is to secure a job in the field of UXD, focusing on User Research, Wireframing, Prototyping, Usability Testing, and Visual Design.
 <!--
