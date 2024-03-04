@@ -33,3 +33,12 @@ _ UXD is the sum of the following attributes:
 - UXD ensure s people use things
 - When a person can figure out how to use the function without much mental effort
 - Less the mental effort better the UXD
+
+#### UXD is a balancing act
+- INNVOVAION
+- DESIRABILITY
+- FEASIBILITY
+- VIABILITY
+
+### **WHY SHOULD WE CARE ABOUT UXD**
+- because our creations are used by people.
