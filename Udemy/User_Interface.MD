@@ -15,9 +15,8 @@ both the user and the organization that created the product are met.
 
 - **Don Norman - The Design of Everyday Things**.
 
--**UXD is the sum of a simple equation**:
+- **UXD is the sum of a simple equation**:
 business goals + user/customer goals + user interface + back end process = user experience design
-
 
 _ UXD is the sum of the following attributes:
 - Useful
@@ -34,11 +33,11 @@ _ UXD is the sum of the following attributes:
 - When a person can figure out how to use the function without much mental effort
 - Less the mental effort better the UXD
 
-#### UXD is a balancing act
+ **UXD is a balancing act**
 - INNVOVAION
 - DESIRABILITY
 - FEASIBILITY
 - VIABILITY
 
-### **WHY SHOULD WE CARE ABOUT UXD**
+#### **WHY SHOULD WE CARE ABOUT UXD**
 - because our creations are used by people.
