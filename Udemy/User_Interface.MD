@@ -42,3 +42,36 @@ business goals + user/customer goals + user interface + back end process = user 
 
 #### **WHY SHOULD WE CARE ABOUT UXD**
 - because our creations are used by people.
+
+
+#### **Understanding the elements of UX**
+- There are 5 elements or "planes" of UX.
+- Strategy -  The site system or apps reason for being.
+- Scope -  Features and functions of the site or app.
+- Structurre - numbrt of places you can go , organized.
+- Skeleton - The optimized organization and arrangemnet
+- Surface - the UI of the product the interaction and everything.
+
+There are 2 sections? for this for these -
+- **Tasks**
+- **Information**
+- The sweet spot for strategey os to find the balance between user needs and what we need the business survives
+- For scope there is functional specification for tasks and content requirements for information.
+- For structure there is interaction design for tasks and information architecture for information.
+- For skeleton there is interface design , navigation design and information design for tasks and information.
+- For surface there is visual design for tasks and information.
+
+### Exploring the elements of User Experience Design.
+
+#### The strategy plane - It is what the user needs and what the business needs.
+- User Needs - It comes from the user that use the product.
+1. What do they want from us
+2. How does that fit in with their other goals
+- Business Objectives - Defines success - making money or saving money , mainly returns
+1. How do we measure success.
+
+#### The scope plane -
+ Strategy is the what and why and scope is the who and when.
+
+- Functioal specifications - describe the feature set
+- Content requirements - describe the information set.
