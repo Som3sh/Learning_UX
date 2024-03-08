@@ -75,3 +75,8 @@ There are 2 sections? for this for these -
 
 - Functioal specifications - describe the feature set
 - Content requirements - describe the information set.
+
+
+### **Research Process**
+
+Research exits most part for the strategy plane.
