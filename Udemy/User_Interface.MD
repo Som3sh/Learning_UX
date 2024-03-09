@@ -80,3 +80,34 @@ There are 2 sections? for this for these -
 ### **Research Process**
 
 Research exits most part for the strategy plane.
+**Business Stakeholder Questions**
+- What should the product accomplish for the business
+- Who are your customers ( or users)
+- How does this project fit with your business strategy ?
+- How do you expect to differentiate this product?
+- What technology decisions have already been made ?
+- WHy do customers use a product like this one ?
+- If they use a competitor's product instead , what's the reason ?
+- What thigs do customers complain about most often ?
+
+ **Questions for B2B users**
+- Tell me about your background and role.
+- What makes a good workday for you ?
+- How does [function or process] work here ?
+- What are the different groups and roles involved in [function or process] ? How do they work together ?
+- How does this compare to your previous companies ?
+- What are the biggest problems and inefficiencies ?
+- Tell me about other systems that work with this one.
+
+**Questions for B2C users**
+- What makes a good(shopping , watching , etc) experience ?
+- What things would you usually do first here ? Why ?
+- What would you put off ass long as you can here ? Why ?
+- How often do you use this product ?
+- What do you use it for most often ?
+- Could you show me how you do that ?
+- What things do you use before , during or after this product ?
+- How would you compare this product to others you've used ?
+
+
+ **Three Crucial Questions**
