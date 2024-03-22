@@ -111,3 +111,7 @@ Research exits most part for the strategy plane.
 
 
  **Three Crucial Questions**
+Whats worth doing ?
+- So we need to completely ignore things/stuff that is completly unreasonable.
+- We need to consider the things/stuff that is important to do and we can easily do it. So we need to add this/consider it.These things also add features and functionality that are needed.
+- Then there are things that are absolutetly necessary i.e, Do or Die.
