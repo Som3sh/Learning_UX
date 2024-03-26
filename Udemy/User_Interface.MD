@@ -110,8 +110,34 @@ Research exits most part for the strategy plane.
 - How would you compare this product to others you've used ?
 
 
- **Three Crucial Questions**
-Whats worth doing ?
+### **Three Crucial Questions**
+**Whats worth doing ?**
 - So we need to completely ignore things/stuff that is completly unreasonable.
 - We need to consider the things/stuff that is important to do and we can easily do it. So we need to add this/consider it.These things also add features and functionality that are needed.
 - Then there are things that are absolutetly necessary i.e, Do or Die.
+
+**What are we creating ?**
+
+**What value does it provide ?**
+- who are the target audience ?
+- what experiences are compeling to them ?
+- how is the offering different from the substitutes/competitors ?
+
+### **First Use Experience questions ?**
+- what are the user's expectations ?
+
+what is this ?/ is this what i expected ? / does it look credible ? / does it offer what i want ?.
+
+this all happens in the first 5 seconds of the user looking at the screen.
+
+Does it look valuable enough to stay around. / What actions can i take now . / How to learn more.
+
+### **The Strategy Takeaways**
+
+- Must have a clear roadmap on how to create value for both the business and the user.
+
+- Successful user experience design is born from a clear strategy that determines what the customer experiences should be.
+
+- That overall experience must be driven by business goals and user/customer needs.
+
+- Know your users - and remember that they are not you .
